@@ -31,4 +31,4 @@ Originally designed for a discord bot, these scripts integrate both Jailbreak & 
 I initially built this during a game design workshop but ended up expanding it at home. Built around the well-known core gameplay loop of an alien shooter game, Nova Shooter adds data saving, upgrades, ultimate abilities, prestiging, new bosses, leaderboards, and more. The entire game is open-source!
 * [View the repository here!](https://github.com/ignViral/NovaShooter/tree/main)
 * All code is licensed under the MIT license for anyone to use.
-* Last updated **March 14th, 2026**.
+* Last updated **March 2026**.
